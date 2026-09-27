@@ -1,0 +1,9 @@
+# Hide database credentials
+.env
+
+# Hide Python compiled cache
+__pycache__/
+*.pyc
+
+# Hide macOS system files
+.DS_Store
